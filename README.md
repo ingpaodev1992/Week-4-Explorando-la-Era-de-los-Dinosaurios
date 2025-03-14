@@ -38,9 +38,7 @@ Durante la limpieza y transformación de los datos, se realizaron las siguientes
 
 🔹 **Corrección de formato:** Ajuste de nombres propios en mayúsculas/minúsculas.  
 🔹 **Limpieza de datos:** Eliminación de valores nulos y estandarización de columnas.  
-🔹 **Separación de columnas:** Extraer período geológico y año de descubrimiento.  
-🔹 **Creación de medidas en DAX:** Para cálculos avanzados como **tamaño promedio**, **categorías de visitantes** y **descubrimientos por año**.  
- 
+🔹 **Separación de columnas:** Extraer período geológico y año de descubrimiento.   
 ---
 
 ## 📊 **Visualizaciones en el Dashboard**  
